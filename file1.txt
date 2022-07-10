@@ -1,0 +1,2 @@
+This is My First File created from Command Prompt
+End Of Line
